@@ -1,0 +1,15 @@
+emp=[{"name":"suji","id":123,"dept":"IT","salary":10000},
+{"name":"pranay","id":136,"dept":"techie","salary":13000},
+{"name":"jain","id":152,"dept":"hr","salary":15000},
+{"name":"pragathi","id":165,"dept":"software","salary":10600},
+{"name":"aaradhya","id":761,"dept":"admin","salary":10050},
+{"name":"dheeru","id":546,"dept":"management","salary":12020},
+{"name":"sai","id":852,"dept":"finance","salary":19365},
+{"name":"aaru","id":596,"dept":"support","salary":12658},
+{"name":"ravi","id":996,"dept":"help","salary":15963},
+{"name":"teja","id":795,"dept":"intern","salary":25369}]
+#print(emp[0].keys())
+#print(emp[1].values())
+#print(emp[1]["name"])
+#print(len(emp))
+#print(emp[0])
